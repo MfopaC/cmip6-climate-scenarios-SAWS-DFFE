@@ -32,9 +32,9 @@ Configure to download data from qbsubset of 25 CMIP6 models, selected for data c
 
 ## Ensemble member
 All model downloads use the same ensemble member
-    r1i1p1f1   
+    *r1i1p1f1*   
 
-## Grid laben consideration
+## Grid label consideration
 Please note the grid label varies between models, therefor adjust accordingly for data download.
     "gn"
     "gr" 
