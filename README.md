@@ -31,7 +31,7 @@ Configure to download data from qbsubset of 25 CMIP6 models, selected for data c
     TaiESM1
 
 ## Ensemble member
-All model downloads use the same ensemble member:
+All model downloads use the same ensemble member
     r1i1p1f1   
 
 ## Grid laben consideration
